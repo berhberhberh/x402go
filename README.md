@@ -1,18 +1,6 @@
 # x402go
 
-A Go implementation of the x402 payment protocol for accepting digital payments over HTTP.
-
-## What is x402?
-
-x402 is an open-standard payment protocol built on HTTP that enables accepting digital payments with minimal friction. It uses the HTTP 402 "Payment Required" status code to implement a standardized payment flow.
-
-## Features
-
-- 🚀 Simple HTTP middleware for requiring payments
-- 💰 Support for blockchain-based micropayments
-- 🔌 Chain and token agnostic
-- 🛡️ Trust-minimizing design
-- 📦 Easy integration with existing Go HTTP servers
+A streamlined Go infra folder for enabling x402 architecture dynamically and easily, complete payments to agents using the outdated 402-HTTP request type.
 
 ## Installation
 
