@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/shdfhasdfdsgkofngd/x402go"
+	"github.com/berhberhberh/x402go"
 )
 
 func main() {

@@ -17,7 +17,7 @@ x402 is an open-standard payment protocol built on HTTP that enables accepting d
 ## Installation
 
 ```bash
-go get github.com/shdfhasdfdsgkofngd/x402go
+go get github.com/berhberhberh/x402go
 ```
 
 ## Quick Start
@@ -29,7 +29,7 @@ package main
 
 import (
     "net/http"
-    "github.com/shdfhasdfdsgkofngd/x402go"
+    "github.com/berhberhberh/x402go"
 )
 
 func main() {
@@ -58,7 +58,7 @@ package main
 
 import (
     "net/http"
-    "github.com/shdfhasdfdsgkofngd/x402go"
+    "github.com/berhberhberh/x402go"
 )
 
 func main() {

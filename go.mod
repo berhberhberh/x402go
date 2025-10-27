@@ -1,4 +1,4 @@
-module github.com/shdfhasdfdsgkofngd/x402go
+module github.com/berhberhberh/x402go
 
 go 1.21
 

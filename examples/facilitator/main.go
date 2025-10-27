@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/shdfhasdfdsgkofngd/x402go"
+	"github.com/berhberhberh/x402go"
 )
 
 // MockFacilitator is a simple facilitator implementation for demonstration

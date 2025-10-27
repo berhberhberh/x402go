@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/shdfhasdfdsgkofngd/x402go"
+	"github.com/berhberhberh/x402go"
 )
 
 func main() {
